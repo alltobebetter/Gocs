@@ -2,7 +2,7 @@
 
 **本聊天室基于MIT协议开源，未修改底层源代码，HTTPS限制无法使用HTTP访问**
 
-> 本项目已搭建完成，访问 https://chat.outing.ga/ 即可进入聊天室，MAIN :)频道为主流频道，https://chat.outing.ga/main 访问即可；
+> 本项目已搭建完成，访问 https://chat.outing.ga/ 即可进入聊天室，MAIN :)频道为主流频道，https://chat.outing.ga/cn 访问即可；
 注意：本项目尚未汉化，有意者请私聊管理员。
 
 本README是使用方法，如果您需要开源，请[点击这里](# "点击这里")（此开源README尚未完成）
