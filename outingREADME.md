@@ -1,4 +1,4 @@
-# OutingChat | 隐私多功能聊天室
+# OutingChat | 隐私多功能聊天室(已停止维护)
 
 **本聊天室基于MIT协议开源，未修改底层源代码，HTTPS限制无法使用HTTP访问**
 
